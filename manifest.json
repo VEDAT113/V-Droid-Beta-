@@ -1,0 +1,19 @@
+{
+  "name": "V-Droid Mobile",
+  "short_name": "V-Droid",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030406",
+  "theme_color": "#030406",
+  "description": "Koyu cam tasarımlı mobil arayüz",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
